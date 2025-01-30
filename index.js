@@ -1,6 +1,6 @@
-import './css/main.css';
-import App from './App';
-import reportWebVitals from './reportWebVitals';
+import './src/css/main.css';
+import App from './src/App';
+import reportWebVitals from './src/reportWebVitals';
 
 import { createRoot } from 'react-dom/client';
 const container = document.getElementById('root'),
